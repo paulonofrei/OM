@@ -16,7 +16,8 @@ public class Om {
     public void setInaltime(double Inaltime){
         this.inaltime=Inaltime;
     }
-    public void afisareInfoOm (Om Alin){
+    public void afisareInfoOm (Om Alin)
+    {
     System.out.println("omul noustru are numele de " +this.nume);
     System.out.println("Omul nostru are prenumele " + this.prenume);
     }
